@@ -14,6 +14,11 @@ Implements: [Proposal of `std::dump` (P2879R0)](https://wg21.link/P2879R0)
 
 **Status**: [Retired. No longer maintained or actively developed.](https://github.com/bemanproject/beman/blob/main/docs/BEMAN_LIBRARY_MATURITY_MODEL.md#retired-no-longer-maintained-or-actively-developed)
 
+For more information see: [Discussion of ISO Standards committee](https://wg21.link/P2879R0/github)
+NOTE: If you believe this should be reconsidered, please use the ISO process and [submit a paper](https://isocpp.org/std/submit-a-proposal)!
+
+
+
 ## Building beman.dump
 
 ## Usage
